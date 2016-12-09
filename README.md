@@ -1,1 +1,1 @@
-This is my first attempt at making a personal website that will showcase my portfolio, personal information, and contact for hiring. 
+#This is my first attempt at making a personal website that will showcase my portfolio, personal information, and contact for hiring. 
